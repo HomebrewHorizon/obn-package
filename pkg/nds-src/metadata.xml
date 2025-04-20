@@ -1,0 +1,9 @@
+<package>
+    <name>NDS-SRC</name>
+    <version>1.0</version>
+    <description>A package for handling NDS source files.</description>
+    <dependencies>
+        <dependency>lxml</dependency>
+        <dependency>requests</dependency>
+    </dependencies>
+</package>
